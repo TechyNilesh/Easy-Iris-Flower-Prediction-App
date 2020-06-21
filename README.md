@@ -1,7 +1,7 @@
 # Easy Iris Flower Prediction App
 ![Pandas](https://img.shields.io/badge/Pandas-v1.0.4-blue) ![Pandas](https://img.shields.io/badge/scikit--learn-0.23.1-green) ![Pandas](https://img.shields.io/badge/streamlit-0.62.0-orange) ![Pandas](https://img.shields.io/badge/Heroku-Cloud%20Application%20Platform-blue)
 
-This is a **Streamlit** app use for prediction of the** Iris flower** type.
+This is a **Streamlit** app use for prediction of the **Iris flower** type.
 
 ## Technology Used
 Followings technologies are used for development and deployment of this projects.
