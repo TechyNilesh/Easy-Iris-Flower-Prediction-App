@@ -56,3 +56,10 @@ st.write('**Virginica**:',prediction_proba[0][2])
 
 st.subheader('Final Prediction')
 st.error(iris.target_names[prediction][0])
+
+html_temp1 = """
+    <div style="background-color:#f63366">
+    <p style="color:white;text-align:center;" >Designe & Developed By: <b>Nilesh Verma</b> </p>
+    </div>
+    """
+st.markdown(html_temp1,unsafe_allow_html=True)
